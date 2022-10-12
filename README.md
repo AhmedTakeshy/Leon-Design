@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Leon - Design](ahmedtakeshy.github.io/Leon-Design/)
+- Live Site URL: [Leon - Design](https://ahmedtakeshy.github.io/Leon-Design/)
 
 ## My process
 
